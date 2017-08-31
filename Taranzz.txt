@@ -4,3 +4,4 @@ git add "<filename>"/ git add . (For all files)
 git commit [-m (for a title message)]
 git config --global user.email "you@example.com" (First Time)
 git config --global user.name "Your Name" (First Time)
+git log (Record of all changes)
